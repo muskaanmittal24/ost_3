@@ -1,1 +1,2 @@
 Version 1: Basic app
+Version 2: with login feature
